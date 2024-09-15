@@ -12,7 +12,6 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my projects site!
-   # text: 
     button: Learn More
     buttonlink: "#projects"
 

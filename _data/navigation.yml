@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Projects"
       section: portfolio
     - title: "Resume"
-      section: about
+      section: resume
     - title: "Contact"
       section: contact
     - title: "Theme Source"

@@ -18,18 +18,13 @@ en: &DEFAULT_EN
 
   projects:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    # text: ""
     section: portfolio
     closebutton: "Close Project"
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   contact:
     title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
+    text: "sarahl02116@gmail.com or sarahlew@ucsb.edu"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -45,16 +40,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/sarahllew
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
